@@ -1,0 +1,2 @@
+# House-price-prediction-
+Using dataset on kaggle tried to predict the price of the houses based on the different features. This will helpful in analysing the price of house in a particular area and in real state for home buyer to describe their dream house. With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges to predict the final price of each home
